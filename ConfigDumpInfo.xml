@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Мероприятия" id="54eb1ba3-7cd1-4cf4-8660-b1e72b9a4396" configVersion="604ac51a0ddb034e8e618cdfcbc5c99600000000"/>
+		<Metadata name="Catalog.Роли" id="559b96d5-24a9-4aeb-a1ac-2505a0369b2d" configVersion="42331b0089c32049aab4c820f354a46e00000000"/>
+		<Metadata name="Catalog.УчастникиОбъединения" id="dd3b6f66-19e6-4bba-91c5-e11cee4808a6" configVersion="460fd9f85758ba47bb41dfdb097ec6a900000000"/>
+		<Metadata name="CommonForm.КалендарьМероприятий" id="66671ad0-a37b-4478-a574-4a66323dfc1f" configVersion="a9b3b35a3eabdf4aa659c9c0f4c642a600000000"/>
+		<Metadata name="CommonForm.КалендарьМероприятий.Form" id="66671ad0-a37b-4478-a574-4a66323dfc1f.0" configVersion="b713ea36ca07504b832761531c76d34200000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера" id="4b981feb-2a3d-4f18-b937-88b42cd603e0" configVersion="f1fe0f66676de342be2c5add98c7583d00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера.Module" id="4b981feb-2a3d-4f18-b937-88b42cd603e0.0" configVersion="51db0001d1930047903927a863c0974300000000"/>
+		<Metadata name="Configuration.ОбъединениеЛюдей" id="d0aa0cc5-a1ec-44f4-ace4-0aa5b0f684a2" configVersion="2481fc99faa1cb4aa74783904f72eafb00000000"/>
+		<Metadata name="Configuration.ОбъединениеЛюдей.HomePageWorkArea" id="69929d8e-9a3d-4de7-8db6-696a2496ad53.8" configVersion="3a8d3634e8c64947be9fd8ecca64e7f600000000"/>
+		<Metadata name="Configuration.ОбъединениеЛюдей.ManagedApplicationModule" id="69929d8e-9a3d-4de7-8db6-696a2496ad53.6" configVersion="be65a0c65abdb142b9ab8ab6cd68006100000000"/>
+		<Metadata name="Constant.НазваниеОбъединения" id="0f31ed70-6d09-4e5f-a921-7e560ba531a1" configVersion="b6013b54c181494cbeb3c4ec528e093c00000000"/>
+		<Metadata name="Document.Пожертвования" id="8b89ba54-bdb2-49af-90a4-0193951ac658" configVersion="04903fe87984c94bb10fdac002b7f83400000000">
+			<Metadata name="Document.Пожертвования.Attribute.Мероприятие" id="c0d840e3-1911-4282-b74a-9988837c7331"/>
+			<Metadata name="Document.Пожертвования.Attribute.Сумма" id="d20dec0c-3689-42fd-ba05-909c950519b9"/>
+		</Metadata>
+		<Metadata name="Document.Тренировка" id="9674cb00-d0db-4c6d-b290-538f48324835" configVersion="c2c086c56c875a489fcd270925c69de600000000">
+			<Metadata name="Document.Тренировка.TabularSection.Участники.Attribute.Участник" id="287e9cf8-e25a-4ac6-bcee-3d16c2163a73"/>
+			<Metadata name="Document.Тренировка.TabularSection.Участники.Attribute.Роль" id="50fa5360-9055-46eb-9cec-f3b5ce2f4162"/>
+			<Metadata name="Document.Тренировка.TabularSection.Участники" id="57e23caa-7e3e-4ccf-a6f0-efda6fd941f3"/>
+			<Metadata name="Document.Тренировка.Attribute.Тренер" id="6f9f565d-202c-4600-8f5c-555b429aae90"/>
+			<Metadata name="Document.Тренировка.Attribute.Длительность" id="838656e2-97b1-4dd3-8824-cfc2274f2105"/>
+			<Metadata name="Document.Тренировка.Attribute.КоличесвоПодходов" id="8cf18929-ce50-43ac-a653-5b4f8057fe10"/>
+			<Metadata name="Document.Тренировка.Attribute.Мероприятие" id="ba0ad95f-1499-4976-93bb-22e8aa8f17aa"/>
+		</Metadata>
+		<Metadata name="Document.Тренировка.Form.ФормаДокумента" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe" configVersion="74f7ade5ce487d4bb165bcc3fb6f8a2900000000"/>
+		<Metadata name="Document.Тренировка.Form.ФормаДокумента.Form" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe.0" configVersion="9ab41699e987ec49b7e45d82256e7cc200000000"/>
+		<Metadata name="Language.Русский" id="128c5133-bdb6-41e1-aacd-b6eae48a23ba" configVersion="a7fdb0b54673c6419c30626ce4cb0ac800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
