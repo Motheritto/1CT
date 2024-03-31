@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Объединение людей</v8:content>
+					<v8:content>Объединение людей 1.1</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -51,7 +51,7 @@
 			<Vendor>Фирма 1С</Vendor>
 			<Version>1.0.0.1</Version>
 			<UpdateCatalogAddress/>
-			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
 			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
 			<AdditionalFullTextSearchDictionaries/>
@@ -230,7 +230,12 @@
 			<DefaultInterface/>
 			<DefaultStyle/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
-			<BriefInformation/>
+			<BriefInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Объединение людей 1.1</v8:content>
+				</v8:item>
+			</BriefInformation>
 			<DetailedInformation/>
 			<Copyright>
 				<v8:item>
@@ -254,11 +259,18 @@
 			<CommonModule>ОбщегоНазначенияВызовСервера</CommonModule>
 			<Constant>НазваниеОбъединения</Constant>
 			<CommonForm>КалендарьМероприятий</CommonForm>
-			<Catalog>УчастникиОбъединения</Catalog>
+			<Catalog>ДанныеОбОрганизации</Catalog>
 			<Catalog>Мероприятия</Catalog>
+			<Catalog>Продукция</Catalog>
 			<Catalog>Роли</Catalog>
-			<Document>Тренировка</Document>
+			<Catalog>УчастникиОбъединения</Catalog>
 			<Document>Пожертвования</Document>
+			<Document>ПокупкаТовара</Document>
+			<Document>ПродажаТовара</Document>
+			<Document>Тренировка</Document>
+			<Report>ОстаткиТоваров</Report>
+			<DataProcessor>Счетчик</DataProcessor>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

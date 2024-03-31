@@ -195,7 +195,7 @@
 			<RegisterRecords/>
 			<PostInPrivilegedMode>true</PostInPrivilegedMode>
 			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
-			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>Use</FullTextSearch>
@@ -334,11 +334,11 @@
 			</Attribute>
 			<Attribute uuid="8cf18929-ce50-43ac-a653-5b4f8057fe10">
 				<Properties>
-					<Name>КоличесвоПодходов</Name>
+					<Name>КоличествоПодходов</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Количесво подходов</v8:content>
+							<v8:content>Количество подходов</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

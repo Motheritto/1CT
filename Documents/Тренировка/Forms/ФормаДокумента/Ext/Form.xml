@@ -63,7 +63,7 @@
 			<ExtendedTooltip name="МероприятиеРасширеннаяПодсказка" id="15"/>
 		</InputField>
 		<InputField name="КоличесвоПодходов" id="16">
-			<DataPath>Объект.КоличесвоПодходов</DataPath>
+			<DataPath>Объект.КоличествоПодходов</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="КоличесвоПодходовКонтекстноеМеню" id="17"/>
