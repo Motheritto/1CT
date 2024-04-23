@@ -79,8 +79,8 @@
 			<Metadata name="Document.Тренировка.Attribute.КоличествоПодходов" id="8cf18929-ce50-43ac-a653-5b4f8057fe10"/>
 			<Metadata name="Document.Тренировка.Attribute.Мероприятие" id="ba0ad95f-1499-4976-93bb-22e8aa8f17aa"/>
 		</Metadata>
-		<Metadata name="Document.Тренировка.Form.ФормаДокумента" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe" configVersion="54d50aff662dba4cb7689be7492bbed200000000"/>
-		<Metadata name="Document.Тренировка.Form.ФормаДокумента.Form" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe.0" configVersion="54b984e911d72446b07126dbccd4f4b700000000"/>
+		<Metadata name="Document.Тренировка.Form.ФормаДокумента" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe" configVersion="15fe36784476f24995b2cd18c300856000000000"/>
+		<Metadata name="Document.Тренировка.Form.ФормаДокумента.Form" id="8c1dcf8e-1741-4684-8b99-5d253d57c8fe.0" configVersion="9de1b9be80a59745ae9792de8161afac00000000"/>
 		<Metadata name="Document.Тренировка.Help" id="9674cb00-d0db-4c6d-b290-538f48324835.1" configVersion="971556059e0f8040a6093ce121bd4b7000000000"/>
 		<Metadata name="Language.Русский" id="128c5133-bdb6-41e1-aacd-b6eae48a23ba" configVersion="a7fdb0b54673c6419c30626ce4cb0ac800000000"/>
 		<Metadata name="Report.ОстаткиТоваров" id="b0c3e4fd-0c84-4a33-9543-d973157aa151" configVersion="b3b29fdbbbe42d4b806adba58669a99000000000"/>
@@ -91,7 +91,7 @@
 		<Metadata name="Role.АдминистраторСистемы.Rights" id="267855f2-bfcd-4833-ae2c-6d53b768afa3.0" configVersion="a748f647d4d9f045918e2ad713157b9000000000"/>
 		<Metadata name="Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок" id="83a2f7c2-4cfd-4748-bcbe-cb8bb5aaeee1" configVersion="4483fcf68562744093d1ff8b457df4a000000000"/>
 		<Metadata name="Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок.Rights" id="83a2f7c2-4cfd-4748-bcbe-cb8bb5aaeee1.0" configVersion="6bc83ebf61d772468f83d4bd5f3c74f000000000"/>
-		<Metadata name="Role.ПолныеПрава" id="229da29b-104a-442d-a2e2-51cb964488cf" configVersion="c14470e9eab350458fab56235ff73d8a00000000"/>
-		<Metadata name="Role.ПолныеПрава.Rights" id="229da29b-104a-442d-a2e2-51cb964488cf.0" configVersion="d7326d20fbe9744c8a59784dfa4c838700000000"/>
+		<Metadata name="Role.ПолныеПрава" id="229da29b-104a-442d-a2e2-51cb964488cf" configVersion="d90ffe0f999b624aabb829f50269701c00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="229da29b-104a-442d-a2e2-51cb964488cf.0" configVersion="a3bf054b4d569644813b33eadd904dba00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
